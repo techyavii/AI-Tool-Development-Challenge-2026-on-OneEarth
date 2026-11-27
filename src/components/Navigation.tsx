@@ -8,7 +8,7 @@ const Navigation = () => {
 
   const mainNavItems = [
     { name: "Home", href: "/" },
-    { name: "AI Tool Development Challenge 2026 Schedule", href: "/schedule" },
+    { name: "2nd AI Tool Development Challenge 2027 Schedule", href: "/schedule" },
     { name: "Results", href: "/results" }
   ];
 
@@ -42,7 +42,7 @@ const Navigation = () => {
               <Leaf className="w-5 h-5 text-white" />
             </div>
             <span className="text-xl font-bold text-foreground">
-              AI Tool Development Challenge 2026 on OneEarth
+              2nd AI Tool Development Challenge 2027 on OneEarth
             </span>
           </div>
 

@@ -33,15 +33,15 @@ const About = () => {
         {/* Section Header */}
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-            About AI Tool Challenge 2026
+            About AI Tool Challenge 2027
 
           </h2>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-           AI Tool Development Challenge on One Earth is a global initiative inviting innovators to build AI-driven solutions that address real-world challenges aligned with the United Nations Sustainable Development Goals (SDGs). It encourages participants to apply AI technologies to create meaningful, ethical and scalable impact across critical domains such as sustainability, healthcare, education, climate action  and inclusive growth.
+           2nd AI Tool Development Challenge on One Earth is a global initiative inviting innovators to build AI-driven solutions that address real-world challenges aligned with the United Nations Sustainable Development Goals (SDGs). It encourages participants to apply AI technologies to create meaningful, ethical and scalable impact across critical domains such as sustainability, healthcare, education, climate action  and inclusive growth.
           </p>
           <p className="text-lg text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-            More than a competition, AI Tool Development Challenge 2026 on OneEarth is a mission to use AI as a force for social good, fostering collaboration and responsible innovation to transform ideas into practical tools that benefit communities, protect the planet and support a sustainable future.
+            More than a competition, 2nd AI Tool Development Challenge 2027 on OneEarth is a mission to use AI as a force for social good, fostering collaboration and responsible innovation to transform ideas into practical tools that benefit communities, protect the planet and support a sustainable future.
           </p>
         </div>
 
@@ -85,7 +85,7 @@ const About = () => {
              Our mission is to empower innovators worldwide to harness the transformative power of Artificial Intelligence to solve pressing global challenges, accelerate progress toward the United Nations Sustainable Development Goals and create scalable, ethical and impactful solutions for a sustainable future.
             </p>
             <p className="text-lg text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-              Through collaboration, creativity and responsible AI innovation, AI tool Development Challenge for OneEarth seeks to bridge technology and humanity—turning intelligent ideas into real-world tools that protect our planet, uplift communities and drive inclusive global progress.
+              Through collaboration, creativity and responsible AI innovation, 2nd AI Tool Development Challenge for OneEarth seeks to bridge technology and humanity—turning intelligent ideas into real-world tools that protect our planet, uplift communities and drive inclusive global progress.
             </p>
           </div>
         </div>

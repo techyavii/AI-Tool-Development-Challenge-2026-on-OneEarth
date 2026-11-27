@@ -4,37 +4,37 @@ import { CheckCircle, Clock, Calendar } from "lucide-react";
 const Timeline = () => {
   const events = [
     {
-      date: "February 1, 2026",
+      date: "February 1, 2027",
       activity: "Registration Opens",
       status: "upcoming",
       icon: <Calendar className="w-5 h-5" />
     },
     {
-      date: "March 15, 2026", 
+      date: "March 15, 2027", 
       activity: "Registration Closes",
       status: "upcoming",
       icon: <Clock className="w-5 h-5" />
     },
     {
-      date: "April 11, 2026",
+      date: "April 11, 2027",
       activity: "Selection Round (Shortlisting of Teams)",
       status: "upcoming", 
       icon: <CheckCircle className="w-5 h-5" />
     },
     {
-      date: "April 11, 2026 (midnight)",
+      date: "April 11, 2027 (midnight)",
       activity: "Notification of Shortlisted Teams For Final Round",
       status: "upcoming",
       icon: <CheckCircle className="w-5 h-5" />
     },
     {
-      date: "April 12, 2026",
-      activity: "AI Tool Challenge 2026 (Final Round)",
+      date: "April 12, 2027",
+      activity: "AI Tool Challenge 2027 (Final Round)",
       status: "main-event",
       icon: <Calendar className="w-5 h-5" />
     },
     {
-      date: "April 12, 2026",
+      date: "April 12, 2027",
       activity: "Announcement of Winners, Certificate and Prize Distribution",
       status: "main-event",
       icon: <CheckCircle className="w-5 h-5" />
@@ -51,7 +51,7 @@ const Timeline = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-           Mark your calendars! Here's everything you need to know about important dates and milestones for AI Tool Development Challenge 2026.
+           Mark your calendars! Here's everything you need to know about important dates and milestones for 2nd AI Tool Development Challenge 2027.
           </p>
         </div>
 

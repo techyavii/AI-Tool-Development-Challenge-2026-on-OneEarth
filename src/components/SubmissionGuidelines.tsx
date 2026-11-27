@@ -105,7 +105,7 @@ const SubmissionGuidelines = () => {
           </h1>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Each team/individual must submit the following components to participate in the AI Tool Development Challenge 2026.
+            Each team/individual must submit the following components to participate in the 2nd AI Tool Development Challenge 2027.
           </p>
         </div>
 

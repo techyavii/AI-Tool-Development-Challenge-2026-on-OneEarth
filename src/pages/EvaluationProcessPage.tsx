@@ -113,7 +113,7 @@ const EvaluationProcessPage = () => {
     {
       title: "Evaluation Philosophy",
       icon: <Globe className="w-6 h-6" />,
-      description: "The AI Tool Development Challenge Evaluation Process emphasizes:",
+      description: "The 2nd AI Tool Development Challenge Evaluation Process emphasizes:",
       points: [
         "Impact over hype",
         "Responsible AI over complexity",
@@ -134,7 +134,7 @@ const EvaluationProcessPage = () => {
           </h1>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed mb-4">
-            AI Tool Development Challenge 2026 
+            2nd AI Tool Development Challenge 2027 
           </p>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed mb-4">
             One Planet. One Purpose. Powered by AI

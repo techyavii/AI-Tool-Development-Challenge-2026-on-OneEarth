@@ -164,10 +164,10 @@ const ChallengeRequirementsPage = () => {
           </h1>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed mb-4">
-            AI Tool Development Challenge 2026 – One Planet. One Purpose. Powered by AI
+            2nd AI Tool Development Challenge 2027 – One Planet. One Purpose. Powered by AI
           </p>
           <p className="text-lg text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-            Participants must meet the following requirements to ensure that all submissions are impactful, ethical and aligned with the goals of the AI Tool Development Challenge.
+            Participants must meet the following requirements to ensure that all submissions are impactful, ethical and aligned with the goals of the 2nd AI Tool Development Challenge.
           </p>
         </div>
 

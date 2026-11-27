@@ -13,7 +13,7 @@ const ProgramSchedule = () => {
     {
       title: "Two Rounds",
       icon: <Award className="w-5 h-5" />,
-      description: "Selection Round on Day 1 (April 11, 2026) and Final Round on Day 2 (April 12, 2026)."
+      description: "Selection Round on Day 1 (April 11, 2027) and Final Round on Day 2 (April 12, 2027)."
     },
     {
       title: "Presentation Time",
@@ -42,14 +42,14 @@ const ProgramSchedule = () => {
         {/* Header */}
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-            AI Tool Development Challenge 2026
+            2nd AI Tool Development Challenge 2027
 on
 OneEarth
  Program Schedule
           </h1>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            You are cordially invited to participate in the AI Tool Development Challenge, which will be conducted online via Google Meet.
+            You are cordially invited to participate in the 2nd AI Tool Development Challenge, which will be conducted online via Google Meet.
           </p>
         </div>
 
@@ -76,7 +76,7 @@ OneEarth
               <Badge variant="secondary" className="w-fit mx-auto mb-2">Day 1</Badge>
               <CardTitle className="text-2xl text-foreground flex items-center justify-center gap-3">
                 <Calendar className="w-6 h-6 text-earth-green" />
-                April 11, 2026
+                April 11, 2027
               </CardTitle>
               <p className="text-lg font-semibold text-earth-green">Selection Round</p>
             </CardHeader>
@@ -88,7 +88,7 @@ OneEarth
                   Teams will be evaluated based on the judging criteria.
                 </p>
               </div>
-              <Button
+              {/* <Button
                 className="w-full py-6 mb-4 font-bold text-lg"
                 onClick={() =>
                   window.open(
@@ -105,7 +105,7 @@ OneEarth
               >
                 <Video className="w-4 h-4 mr-2" />
                 Join Session
-              </Button>
+              </Button> */}
             </CardContent>
           </Card>
 
@@ -115,7 +115,7 @@ OneEarth
               <Badge variant="secondary" className="w-fit mx-auto mb-2 bg-earth-green text-white">Day 2</Badge>
               <CardTitle className="text-2xl text-foreground flex items-center justify-center gap-3">
                 <Calendar className="w-6 h-6 text-earth-green" />
-                April 12, 2026
+                April 12, 2027
               </CardTitle>
               <p className="text-lg font-semibold text-earth-green">Final Round</p>
             </CardHeader>
@@ -127,7 +127,7 @@ OneEarth
                   Winners will be announced and prizes distributed.
                 </p>
               </div>
-              <Button
+              {/* <Button
                 className="w-full py-6 mb-4 font-bold text-lg"
                 onClick={() =>
                   window.open(
@@ -145,7 +145,7 @@ OneEarth
                 <Video className="w-4 h-4 mr-2" />
                 <Award className="w-4 h-4 mr-2" />
                 Join Final Round (For Selected Teams Only)
-              </Button>
+              </Button> */}
             </CardContent>
           </Card>
         </div>

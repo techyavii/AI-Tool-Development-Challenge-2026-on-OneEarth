@@ -85,10 +85,10 @@ const Eligibility = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed mb-4">
-            AI Tool Development Challenge 2026 on OneEarth
+            2nd AI Tool Development Challenge 2027 on OneEarth
           </p>
           <p className="text-lg text-muted-foreground max-w-4xl mx-auto leading-relaxed">
-           The AI Tool Development Challenge is open to passionate innovators who believe in leveraging Artificial Intelligence for sustainable and societal impact. Participants must meet the following eligibility requirements.
+           The 2nd AI Tool Development Challenge is open to passionate innovators who believe in leveraging Artificial Intelligence for sustainable and societal impact. Participants must meet the following eligibility requirements.
           </p>
         </div>
 

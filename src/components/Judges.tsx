@@ -174,7 +174,7 @@ const Judges = () => {
   image: "/judges/Naveen_Kumar_Sharma.jpeg",
   expertise: "Cyber Security, Research",
   linkedin: "https://www.linkedin.com/in/naveen-sharma-950a4a18/",
-  email: "maynaveen2026@gmail.com"
+  email: "maynaveen2027@gmail.com"
 },
 {
   name: "Saraschandra Arveti",
@@ -354,7 +354,7 @@ const Judges = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-            Expert Judges Panel
+            Our 2026 Judges Panel
           </h2>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">

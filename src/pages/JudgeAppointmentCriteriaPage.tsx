@@ -80,7 +80,7 @@ const JudgeAppointmentCriteriaPage = () => {
       title: "Alignment with Challenge Vision",
       icon: "🌟",
       points: [
-        "Strong alignment with the mission and vision of AI Tool Development Challenge",
+        "Strong alignment with the mission and vision of 2nd AI Tool Development Challenge",
         "Passion for leveraging AI as a force for sustainability and global good"
       ]
     }
@@ -105,10 +105,10 @@ const JudgeAppointmentCriteriaPage = () => {
                 Judge Appointment Criteria
               </h1>
               <p className="text-xl md:text-2xl opacity-90 max-w-4xl mx-auto leading-relaxed mb-4">
-                AI Tool Development Challenge 2026 on OneEarth – AI Tool Development Challenge
+                2nd AI Tool Development Challenge 2027 on OneEarth – 2nd AI Tool Development Challenge
               </p>
               <p className="text-lg md:text-xl opacity-90 max-w-4xl mx-auto leading-relaxed">
-                Judges for the AI Tool Development Challenge are selected to ensure fairness, expertise, diversity and alignment with the mission of advancing Artificial Intelligence for sustainable development and social good.
+                Judges for the 2nd AI Tool Development Challenge are selected to ensure fairness, expertise, diversity and alignment with the mission of advancing Artificial Intelligence for sustainable development and social good.
               </p>
             </div>
           </div>
@@ -119,7 +119,7 @@ const JudgeAppointmentCriteriaPage = () => {
           <div className="container mx-auto px-4">
             <div className="max-w-4xl mx-auto text-center">
               <p className="text-lg text-muted-foreground leading-relaxed mb-8">
-                Our AI Tool Development Challenge 2026 on April 11-12, 2026 represents the cutting edge of environmental AI research and development. We've meticulously curated a judging panel comprising world-class experts in sustainable technology, environmental data science and green innovation architectures.
+                Our 2nd AI Tool Development Challenge 2027 on April 11-12, 2027 represents the cutting edge of environmental AI research and development. We've meticulously curated a judging panel comprising world-class experts in sustainable technology, environmental data science and green innovation architectures.
               </p>
               <p className="text-lg text-muted-foreground leading-relaxed">
                 Each judge brings decades of experience in evaluating breakthrough solutions that push the boundaries of environmental sustainability while maintaining peak technological performance. They understand the nuanced challenges of deploying AI for environmental impact at scale with minimal resources.
@@ -183,7 +183,7 @@ const JudgeAppointmentCriteriaPage = () => {
                     Judge Reveal
                   </h2>
                   <p className="text-lg opacity-90 leading-relaxed mb-8">
-                    Our distinguished panel of environmental AI experts will be unveiled in March 2026. These industry leaders and researchers will bring unparalleled expertise to evaluate your innovative solutions.
+                    Our distinguished panel of environmental AI experts will be unveiled in March 2027. These industry leaders and researchers will bring unparalleled expertise to evaluate your innovative solutions.
                   </p>
 
                   <div className="border-t border-white/20 pt-8">

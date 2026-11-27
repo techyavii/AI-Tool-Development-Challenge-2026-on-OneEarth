@@ -23,7 +23,7 @@ const Footer = () => {
     {
       icon: <Calendar className="w-4 h-4" />,
       label: "Event Date",
-      value: "April 11-12, 2026"
+      value: "April 11-12, 2027"
     },
     {
       icon: <Mail className="w-4 h-4" />,
@@ -44,7 +44,7 @@ const Footer = () => {
                 <Leaf className="w-7 h-7 text-white" />
               </div>
               <div>
-                <h3 className="text-2xl font-bold">AI Tool Development Challenge 2026 on OneEarth</h3>
+                <h3 className="text-2xl font-bold">2nd AI Tool Development Challenge 2027 on OneEarth</h3>
                 <p className="text-white/80 text-sm">One planet. One purpose. Powered by AI.</p>
               </div>
             </div>
@@ -114,7 +114,7 @@ const Footer = () => {
         {/* Bottom Footer */}
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2 text-white/80 text-sm">
-            <span>© AI Tool Development Challenge 2026
+            <span>© 2nd AI Tool Development Challenge 2027
 on
 OneEarth
 </span>

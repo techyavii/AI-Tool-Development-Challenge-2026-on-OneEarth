@@ -6,7 +6,7 @@ const Awards = () => {
   const grandPrizes = [
     {
       position: "1st Place",
-      title: "AI Tool Development Challenge 2026 Winners",
+      title: "2nd AI Tool Development Challenge 2027 Winners",
       prize: "£1,000",
       description: "Top-performing team showcasing exceptional innovation, measurable impact and effective implementation.",
       icon: <Crown className="w-8 h-8" />,
@@ -15,7 +15,7 @@ const Awards = () => {
     },
     {
       position: "2nd Place", 
-      title: "AI Tool Development Challenge 2026 – 1st Runner-Up",
+      title: "2nd AI Tool Development Challenge 2027 – 1st Runner-Up",
       prize: "£500",
       description: "Honouring the team that demonstrates strong performance across all judging criteria and notable contributions.",
       icon: <Trophy className="w-8 h-8" />,
@@ -24,7 +24,7 @@ const Awards = () => {
     },
     {
       position: "3rd Place",
-      title: "AI Tool Development Challenge 2026 – 2nd Runner-Up", 
+      title: "2nd AI Tool Development Challenge 2027 – 2nd Runner-Up", 
       prize: "£250",
       description: "Acknowledging outstanding contributions to sustainable innovation with creative and impactful solutions.",
       icon: <Medal className="w-8 h-8" />,
@@ -44,7 +44,7 @@ const Awards = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-           The  AI Tool Development Challenge 2026 honors outstanding achievements in sustainable innovation through distinguished awards and impactful prizes.
+           The  2nd AI Tool Development Challenge 2027 honors outstanding achievements in sustainable innovation through distinguished awards and impactful prizes.
           </p>
         </div>
           

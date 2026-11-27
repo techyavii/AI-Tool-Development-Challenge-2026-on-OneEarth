@@ -17,11 +17,11 @@ const challengeCarousel = () => {
   }, [emblaApi]);
 
   const images = [
-    { src: "/OEH_1.png", alt: "AI Tool Development Challenge 2026 on OneEarthathon 2026 Participants" },
-    { src: "/OEH_2.jpg", alt: "AI Tool Development Challenge 2026 on OneEarthathon 2026 Team Presentations" },
-    { src: "/OEH_3.png", alt: "AI Tool Development Challenge 2026 on OneEarthathon 2026 Award Ceremony" },
-    { src: "/OEH_4.png", alt: "AI Tool Development Challenge 2026 on OneEarthathon 2026 Collaboration" },
-    { src: "/OEH_5.png", alt: "AI Tool Development Challenge 2026 on OneEarthathon 2026 Innovation" },
+    { src: "/OEH_1.png", alt: "2nd AI Tool Development Challenge 2027 on OneEarthathon 2027 Participants" },
+    { src: "/OEH_2.jpg", alt: "2nd AI Tool Development Challenge 2027 on OneEarthathon 2027 Team Presentations" },
+    { src: "/OEH_3.png", alt: "2nd AI Tool Development Challenge 2027 on OneEarthathon 2027 Award Ceremony" },
+    { src: "/OEH_4.png", alt: "2nd AI Tool Development Challenge 2027 on OneEarthathon 2027 Collaboration" },
+    { src: "/OEH_5.png", alt: "2nd AI Tool Development Challenge 2027 on OneEarthathon 2027 Innovation" },
   ];
 
   return (
