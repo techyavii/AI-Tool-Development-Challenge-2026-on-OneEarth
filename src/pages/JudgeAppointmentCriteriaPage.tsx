@@ -105,7 +105,7 @@ const JudgeAppointmentCriteriaPage = () => {
                 Judge Appointment Criteria
               </h1>
               <p className="text-xl md:text-2xl opacity-90 max-w-4xl mx-auto leading-relaxed mb-4">
-                2nd AI Tool Development Challenge 2027 on OneEarth – 2nd AI Tool Development Challenge
+                2nd AI Tool Development Challenge 2027 on OneEarth
               </p>
               <p className="text-lg md:text-xl opacity-90 max-w-4xl mx-auto leading-relaxed">
                 Judges for the 2nd AI Tool Development Challenge are selected to ensure fairness, expertise, diversity and alignment with the mission of advancing Artificial Intelligence for sustainable development and social good.

@@ -8,7 +8,7 @@ const Navigation = () => {
 
   const mainNavItems = [
     { name: "Home", href: "/" },
-    { name: "2nd AI Tool Development Challenge 2027 Schedule", href: "/schedule" },
+    { name: "AI Tool Development Challenge Schedule", href: "/schedule" },
     { name: "Results", href: "/results" }
   ];
 

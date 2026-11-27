@@ -114,7 +114,7 @@ const Footer = () => {
         {/* Bottom Footer */}
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <div className="flex items-center gap-2 text-white/80 text-sm">
-            <span>© 2nd AI Tool Development Challenge 2027
+            <span>© AI Tool Development Challenge
 on
 OneEarth
 </span>

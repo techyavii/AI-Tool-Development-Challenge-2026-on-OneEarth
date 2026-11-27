@@ -7,7 +7,7 @@ const Awards = () => {
     {
       position: "1st Place",
       title: "2nd AI Tool Development Challenge 2027 Winners",
-      prize: "£1,000",
+      prize: "£600",
       description: "Top-performing team showcasing exceptional innovation, measurable impact and effective implementation.",
       icon: <Crown className="w-8 h-8" />,
       gradient: "from-yellow-400 to-orange-500",
@@ -16,7 +16,7 @@ const Awards = () => {
     {
       position: "2nd Place", 
       title: "2nd AI Tool Development Challenge 2027 – 1st Runner-Up",
-      prize: "£500",
+      prize: "£400",
       description: "Honouring the team that demonstrates strong performance across all judging criteria and notable contributions.",
       icon: <Trophy className="w-8 h-8" />,
       gradient: "from-gray-400 to-gray-600",
@@ -25,7 +25,7 @@ const Awards = () => {
     {
       position: "3rd Place",
       title: "2nd AI Tool Development Challenge 2027 – 2nd Runner-Up", 
-      prize: "£250",
+      prize: "£200",
       description: "Acknowledging outstanding contributions to sustainable innovation with creative and impactful solutions.",
       icon: <Medal className="w-8 h-8" />,
       gradient: "from-amber-600 to-yellow-700",

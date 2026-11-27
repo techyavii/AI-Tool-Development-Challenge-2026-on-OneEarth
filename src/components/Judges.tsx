@@ -357,11 +357,11 @@ const Judges = () => {
             Our 2026 Judges Panel
           </h2>
           <div className="w-24 h-1 bg-gradient-accent mx-auto mb-8"></div>
-          <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
+          {/* <p className="text-lg text-muted-foreground max-w-3xl mx-auto leading-relaxed">
             Meet our distinguished panel of expert judges who will evaluate submissions based on innovation, 
             environmental impact, technical excellence and scalability. Our judges bring decades of experience 
             in technology, AI and sustainability.
-          </p>
+          </p> */}
         </div>
 
         {/* Judges Grid */}
